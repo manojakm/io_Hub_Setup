@@ -3,7 +3,7 @@
 
 # https://zero-to-jupyterhub.readthedocs.io/en/latest/setup-jupyterhub.html
 proxy:
-  secretToken: "65984d30e7a15b72280bc3b3c1edbab11c820a4c05c2b539f0b8ec6c35ae646f"
+  secretToken: "a448f62bc2fe75c8918624fd2718933bf50c77a228077ca873a57cb86bf60976"
 hub:
   # output of first execution of 'openssl rand -hex 32'
-  cookieSecret: "65984d30e7a15b72280bc3b3c1edbab11c820a4c05c2b539f0b8ec6c35ae646f"
+  cookieSecret: "35e5323d8f646eea4b2455890b7354ad625589d8a88d0c0eae7b00a116216ddd"
